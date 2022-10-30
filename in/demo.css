@@ -1,0 +1,35 @@
+.x-display-flex {
+  display: flex;
+}
+
+.x-flex-align-items-center {
+  align-items: center;
+}
+
+.x-background-red {
+  background-color: red;
+}
+
+.x-button {
+  font-size: 1.1rem;
+  border-radius: 8px;
+  border: 1px solid grey;
+}
+
+.x-button-primary {
+  background-color: #333;
+  color: #aaa;
+}
+
+.x-bold {
+  font-weight: bold;
+}
+
+.x-link {
+  color: #333;
+  text-decoration: none;
+}
+
+.x-text-color-dark {
+  color: #333;
+}
